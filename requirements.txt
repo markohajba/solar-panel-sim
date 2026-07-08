@@ -1,0 +1,11 @@
+# Runtime dependencies for Streamlit Community Cloud (and any pip-based deploy).
+# Pinned to the versions validated on Python 3.13. The dev tools (pytest, ruff,
+# mypy) live in pyproject's dependency-groups and are intentionally excluded here.
+pvlib==0.15.2
+numpy==2.5.1
+scipy==1.18.0
+pandas==3.0.3
+pint==0.25.3
+pydantic==2.13.4
+streamlit==1.59.0
+plotly==6.8.0
