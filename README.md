@@ -1,1 +1,1 @@
-Simulation of the solar panel simulation that was created using Claude Code as initial commit.
+Simulation of the solar panel heat, created using Claude Code for educational purposes, and as initial commit.
